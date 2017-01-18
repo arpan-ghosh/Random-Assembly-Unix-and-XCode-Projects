@@ -28,5 +28,5 @@ main:
 	.cfi_endproc
 .LFE2:
 	.size	main, .-main
-	.ident	"GCC: (Ubuntu 4.8.4-2ubuntu1~14.04.3) 4.8.4"
+	.ident	"GCC: (Ubuntu 4.8.4-2ubuntu1~14.04.3) 4.8.4" #BASH through Windows PowerShell
 	.section	.note.GNU-stack,"",@progbits
